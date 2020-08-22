@@ -6,10 +6,6 @@ Trying to build the blog.
 
 ## Technique Reminder
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 You can use the [editor on GitHub](https://github.com/Sylvia1423/jekyll-now/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -37,3 +33,4 @@ X&Y
 
 [Link](url) and ![Image](src)
 ```
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
